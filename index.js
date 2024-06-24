@@ -38,10 +38,10 @@ console.log(camelTail);
 const billTotal = 84;
 
 // Calculate the tip (15% of the bill total)
-
+let tipAmount = 84 * 0.15;
 
 // Print out the tipAmount
-
+console.log(tipAmount);
 
 
 
@@ -50,10 +50,10 @@ const billTotal = 84;
 *******************************************/
 
 // Generate a random integer between 1 and 10 (inclusive)
-
+let randomNumber = Math.floor(Math.random() * 10) + 1;
 
 // Print the generated random number
-
+console.log(randomNumber);
 
 
 /*******************************************
